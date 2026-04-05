@@ -3,7 +3,7 @@
 # 🗂️ Data Structures in C
 
 ![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c)
-![Semester](https://img.shields.io/badge/Semester-2nd%20Year-orange?style=for-the-badge)
+![Semester](https://img.shields.io/badge/Semester-1st%20Year-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
 
